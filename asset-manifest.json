@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/novel-planning-app/static/css/main.3b771ea4.css",
-    "main.js": "/novel-planning-app/static/js/main.64952403.js",
+    "main.css": "/novel-planning-app/static/css/main.762dea08.css",
+    "main.js": "/novel-planning-app/static/js/main.228f6dc3.js",
     "index.html": "/novel-planning-app/index.html",
-    "main.3b771ea4.css.map": "/novel-planning-app/static/css/main.3b771ea4.css.map",
-    "main.64952403.js.map": "/novel-planning-app/static/js/main.64952403.js.map"
+    "main.762dea08.css.map": "/novel-planning-app/static/css/main.762dea08.css.map",
+    "main.228f6dc3.js.map": "/novel-planning-app/static/js/main.228f6dc3.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b771ea4.css",
-    "static/js/main.64952403.js"
+    "static/css/main.762dea08.css",
+    "static/js/main.228f6dc3.js"
   ]
 }
